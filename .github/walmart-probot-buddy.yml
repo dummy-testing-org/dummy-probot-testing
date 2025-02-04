@@ -2,4 +2,4 @@ enabled_features:
   - bot-pr-merge
   - stale
   - stale-branch-bot
-merge_user: alexandre
+merge_user: alexandreos
