@@ -1,5 +1,13 @@
 enabled_features:
+  - autolabeler
   - bot-pr-merge
-  - stale
+  - semantic-pull-requests
+  - stalebot
+  - merge-queue
+  - pr-template-validator
   - stale-branch-bot
+  - sync-base-branch
+  - bot-admin-merge
+  - bot-translation-merge
 merge_user: alexandreos
+admin_users: alexandreos
