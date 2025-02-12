@@ -10,4 +10,4 @@ enabled_features:
   - bot-admin-merge
   - bot-translation-merge
 merge_user: alexandreos
-admin_users: alexandreos
+admin_users: [alexandreos]
