@@ -6,7 +6,6 @@ enabled_features:
   - merge-queue
   - pr-template-validator
   - stale-branch-bot
-  - sync-base-branch
   - bot-admin-merge
   - bot-translation-merge
 merge_user: alexandreos
