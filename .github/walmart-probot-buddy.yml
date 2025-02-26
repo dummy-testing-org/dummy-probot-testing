@@ -3,7 +3,6 @@ enabled_features:
   - bot-pr-merge
   - stalebot
   - merge-queue
-  - pr-template-validator
   - stale-branch-bot
   - bot-admin-merge
   - bot-translation-merge
