@@ -1,3 +1,6 @@
 approvers:
   users:
     - alexandreos
+  optional:
+    teams:
+      - dummy-testing-org/feature-a-2
