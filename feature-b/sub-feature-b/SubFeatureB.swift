@@ -1,5 +1,5 @@
 // SubFeatureB.swift
-// Alexandre Santos @ 2025
+// Alexandre Santos - 03/03/2025
 
 protocol SubFeatureProtocol {
     var featureId: String { get }
