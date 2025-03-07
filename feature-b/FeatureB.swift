@@ -1,1 +1,1 @@
-// This is a placeholder for the feature B
+// This is a placeholder for the Feature B
