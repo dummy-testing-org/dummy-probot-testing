@@ -1,6 +1,0 @@
-approvers:
-  teams:
-    - dummy-testing-org/feature-b
-  optional:
-    users:
-      - alexandreos
