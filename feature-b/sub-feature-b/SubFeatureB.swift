@@ -1,5 +1,6 @@
 // SubFeatureB.swift
 // Alexandre Santos @ 2025
+// Testing the standalone pr-approver bot
 
 protocol SubFeatureProtocol {
     var featureId: String { get }
