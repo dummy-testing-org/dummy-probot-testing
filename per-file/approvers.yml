@@ -6,8 +6,9 @@ approvers:
     - pattern: "feature-a-config.json"
       teams:
         - dummy-testing-org/feature-a-1
-      optionalTeams:
-        - dummy-testing-org/feature-a-2
+      optional:
+        teams:
+          - dummy-testing-org/feature-a-2
     - pattern: "feature-b-config.json"
       teams:
         - dummy-testing-org/feature-b
