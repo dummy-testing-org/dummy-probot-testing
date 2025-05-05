@@ -1,3 +1,4 @@
 {
-  "value": "this is a feature A config file"
+  "value": "this is a feature A config file",
+  "change": "Testing any changes to this file"
 }
