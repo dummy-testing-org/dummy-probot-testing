@@ -1,6 +1,5 @@
 approvers:
+  minApprovals: 1
   teams:
     - dummy-testing-org/feature-b
-  optional:
-    users:
-      - alexandreos
+    - dummy-testing-org/feature-a-1
