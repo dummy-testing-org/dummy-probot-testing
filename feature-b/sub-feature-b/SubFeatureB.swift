@@ -10,3 +10,5 @@ struct SubFeatureB: SubFeatureProtocol {
     let featureId: String = "sub-feature-b"
     let featureName: String = "Sub Feature B"
 }
+
+// TODO: Validate if changing this will require a single approval from either configured approvaers.
